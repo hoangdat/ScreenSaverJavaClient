@@ -19,6 +19,7 @@ import rmiscreensaver.RegisterMessage;
 /**
  *
  * @author hoangdat
+ * @editor Muttet
  */
 public class CenterControllerImpl extends UnicastRemoteObject implements CenterController{
     

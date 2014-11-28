@@ -15,6 +15,7 @@ import rmiscreensaver.RegisterMessage;
 /**
  *
  * @author hoangdat
+ * @editor Muttet
  */
 public interface CenterController extends Remote{
     public RegisterMessage register(RegisterMessage resMes) throws RemoteException;
